@@ -7,3 +7,5 @@ solid iron inner core, a liquid outer core that generates Earth's magnetic field
 that drives plate tectonics.
 
 Taken from https://en.wikipedia.org/wiki/Earth
+
+For the French reference see: https://fr.wikipedia.org/wiki/Terre
